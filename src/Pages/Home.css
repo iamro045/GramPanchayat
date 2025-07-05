@@ -1,0 +1,38 @@
+.home-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+  text-align: center;
+  background-color: #f5fff5;
+  padding: 3rem 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 128, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  color: #027402;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #444;
+  max-width: 700px;
+  margin: auto;
+}
+
+.calendar-section {
+  padding: 2rem 0;
+}
+
+.calendar-section h2 {
+  text-align: center;
+  color: #017401;
+  margin-bottom: 1.5rem;
+}

@@ -1,0 +1,68 @@
+.schemes-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.schemes-container h1 {
+  color: #017401;
+  margin-bottom: 1rem;
+}
+
+.mr-subtitle {
+  font-size: 1rem;
+  color: #444;
+}
+
+.scheme-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.scheme-card {
+  background-color: #f0fff0;
+  border-left: 5px solid #28a745;
+  box-shadow: 0 2px 8px rgba(0,128,0,0.1);
+  padding: 1.5rem;
+  border-radius: 12px;
+  width: 280px;
+  text-align: left;
+  transition: transform 0.2s ease;
+}
+
+.scheme-card:hover {
+  transform: translateY(-5px);
+}
+
+.scheme-card h3 {
+  color: #017401;
+  margin-bottom: 0.5rem;
+}
+
+.scheme-card .marathi {
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.scheme-card .desc {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .scheme-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .scheme-card {
+    width: 90%;
+  }
+}
