@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GramPanchayat/static/css/main.a12d587a.css",
+    "main.js": "/GramPanchayat/static/js/main.2e332136.js",
+    "static/js/239.8f7c3a82.chunk.js": "/GramPanchayat/static/js/239.8f7c3a82.chunk.js",
+    "static/js/977.c0a60f1a.chunk.js": "/GramPanchayat/static/js/977.c0a60f1a.chunk.js",
+    "static/js/455.d03bd0b9.chunk.js": "/GramPanchayat/static/js/455.d03bd0b9.chunk.js",
+    "static/media/village-bg.jpg": "/GramPanchayat/static/media/village-bg.646898c60cd79a1ac5c7.jpg",
+    "index.html": "/GramPanchayat/index.html",
+    "main.a12d587a.css.map": "/GramPanchayat/static/css/main.a12d587a.css.map",
+    "main.2e332136.js.map": "/GramPanchayat/static/js/main.2e332136.js.map",
+    "239.8f7c3a82.chunk.js.map": "/GramPanchayat/static/js/239.8f7c3a82.chunk.js.map",
+    "977.c0a60f1a.chunk.js.map": "/GramPanchayat/static/js/977.c0a60f1a.chunk.js.map",
+    "455.d03bd0b9.chunk.js.map": "/GramPanchayat/static/js/455.d03bd0b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12d587a.css",
+    "static/js/main.2e332136.js"
+  ]
+}
